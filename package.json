@@ -18,6 +18,8 @@
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.23",
     "postcss": "^8.5.1",
-    "tailwindcss": "3"
+    "tailwindcss": "3",
+    "typescript": "^5.7.3",
+    "vue-tsc": "^2.2.0"
   }
 }
